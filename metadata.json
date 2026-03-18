@@ -1,0 +1,8 @@
+{
+  "name": "Smart AI Notes Maker",
+  "description": "A powerful AI study assistant for students from Class 1 to 12 to generate notes, solve doubts, and help with homework.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
